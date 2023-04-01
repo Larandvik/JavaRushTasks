@@ -1,0 +1,16 @@
+taskKey="com.javarush.task.jdk13.task09.task0916"\n\nПерехват checked исключений
+
+В методе handleExceptions обработайте все checked исключения.
+Нужно вывести на экран возникшее checked исключение.
+Можно использовать только один блок try..catch
+
+
+Требования:
+1.	В методе handleExceptions необходимо вызывать метод method1.
+2.	В методе handleExceptions необходимо вызывать метод method2.
+3.	В методе handleExceptions необходимо вызывать метод method3.
+4.	В методе handleExceptions необходимо использовать только один блок try..catch.
+5.	В методе handleExceptions необходимо отлавливать и выводить на экран все возникающие checked исключения.
+6.	Программа должна выводить на экран текст.
+
+

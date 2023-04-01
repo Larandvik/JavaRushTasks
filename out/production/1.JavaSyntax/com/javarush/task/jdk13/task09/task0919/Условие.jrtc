@@ -1,0 +1,15 @@
+taskKey="com.javarush.task.jdk13.task09.task0919"\n\nДеление на ноль
+
+Создай метод public static void divideByZero, в котором подели любое целое число на ноль и выведи на экран результат деления.
+Оберни вызов метода divideByZero в try..catch. Выведи стек-трейс исключения используя метод exception.printStackTrace()
+
+
+Требования:
+1.	В классе должен быть метод public static void divideByZero().
+2.	В методе divideByZero необходимо добавить операцию деления любого целого числа на ноль.
+3.	В методе divideByZero необходимо вызывать System.out.println или System.out.print.
+4.	В методе main необходимо использовать блок try..catch.
+5.	В методе main необходимо отлавливать любые исключения метода divideByZero.
+6.	Программа должна выводить стек-трейс пойманного исключения.
+
+

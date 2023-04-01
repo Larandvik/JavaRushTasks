@@ -1,0 +1,17 @@
+taskKey="com.javarush.task.jdk13.task06.task0611"\n\nКласс StringHelper
+
+В классе StringHelper реализуй два статических метода:
+- String multiply(String s, int count) &ndash; возвращает строку, повторенную count раз;
+- String multiply(String s) &ndash; возвращает строку, повторенную 5 раз.
+Пример:
+Амиго -&gt; АмигоАмигоАмигоАмигоАмиго
+
+
+Требования:
+1.	Методы класса StringHelper должны возвращать строку.
+2.	Методы класса StringHelper должны быть статическими.
+3.	Методы класса StringHelper должны быть public.
+4.	Метод multiply(String s, int count) должен возвращать строку, повторенную count раз.
+5.	Метод multiply(String s) должен возвращать строку, повторенную 5 раз.
+
+
