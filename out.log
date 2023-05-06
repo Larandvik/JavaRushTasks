@@ -7047,3 +7047,70 @@ java.net.UnknownHostException: javarush.com
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
 	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-03-29 15:26:58 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-03-29 15:26:58 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2023-03-29 15:26:58 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-03-29 15:26:58 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-03-29 15:26:58 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-03-29 15:26:58 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-03-31 18:18:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-31 18:18:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-31 18:18:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-31 18:18:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-31 18:18:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-31 18:18:35 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-31 18:18:38 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-31 18:18:38 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :E:/IDEA_Project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task13/task1327
+2023-03-31 18:31:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-31 18:31:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-31 18:31:23 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-03-31 18:31:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-03-31 18:34:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-03-31 18:34:54 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-03-31 18:34:57 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-03-31 18:34:57 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :E:/IDEA_Project/JavaRushTasks/2.JavaCore/src/com/javarush/task/task13/task1328
+2023-05-01 21:24:55 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-05-01 21:24:55 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2023-05-01 21:24:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:56 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:57 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-01 21:24:59 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-05-01 21:24:59 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-05-01 21:24:59 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-05-06 16:41:23 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-05-06 16:41:23 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2023-05-06 16:41:23 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-06 16:41:23 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-06 16:41:23 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-05-06 16:41:24 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-05-06 16:41:24 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-05-06 16:41:24 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-05-06 16:41:25 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-06 16:41:26 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-05-06 16:41:32 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-05-06 17:03:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-06 17:03:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-06 17:03:45 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-05-06 17:15:57 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-06 17:15:59 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-05-06 17:16:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-06 17:24:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-05-06 17:24:05 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-05-06 17:24:06 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-05-06 17:24:06 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
